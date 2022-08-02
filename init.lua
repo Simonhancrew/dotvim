@@ -1,3 +1,12 @@
 require("user.options")
 require("user.plugins")
+require("user.keymap")
+
 require("plugin-configs.alpha")
+require("plugin-configs.bufferline")
+require("plugin-configs.comment")
+require("plugin-configs.impatient")
+require("plugin-configs.scheme")
+require("plugin-configs.gitsigns")
+require("plugin-configs.treesitter")
+require("plugin-configs.nvimtree")
